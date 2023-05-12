@@ -1,4 +1,4 @@
-# Ecommerce-behaviuor-anlaysis-with-association-mining :shopping_cart:
+# Ecommerce Behaviuor Anlaysis (with Association Mining) :shopping_cart:
 Analyzing user's transactions and performing association mining to deduct useful insights for decision making.
 
 ## Overview
