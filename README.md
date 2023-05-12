@@ -17,8 +17,12 @@ Our Analysis is including and **not limited to** :
 
 ### 2) Defining a KPI that measures customer loyalty from the data.
 ### 3) Conducting RFM analysis.
+
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://github.com/SalmaAlmasry/Ecommerce-behaviuor-anlaysis-with-association-mining/assets/53153292/b3056b5a-20ae-4638-b5da-2c13dfe5e845)">
+    
+<img width="460" height="300" src="https://github.com/SalmaAlmasry/Ecommerce-behaviuor-anlaysis-with-association-mining/assets/53153292/a8d76178-b812-4e26-9d95-a104fce36ab7">
+  
 </p>
+
 ### 4) Designing a sample recommendation engine using association analysis.
 Many other valuable insights can be found in the presentation associated.
