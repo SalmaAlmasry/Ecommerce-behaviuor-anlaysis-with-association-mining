@@ -26,3 +26,11 @@ Our Analysis is including and **not limited to** :
 
 ### 4) Designing a sample recommendation engine using association analysis.
 Many other valuable insights can be found in the presentation associated.
+
+## Code Steps
+1) Reading the data
+2) Preparing and Preprocessing
+3) Analysis
+4) Association Mining with Apriori Algorithm.
+
+Further explaination can be found in the presentation as well.
